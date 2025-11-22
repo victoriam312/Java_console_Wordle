@@ -1,0 +1,13 @@
+# Archivos generados por el IDE (NetBeans)
+nbproject/
+build/
+dist/
+manifest.mf
+
+# Archivos de compilación de Java
+*.class
+*.jar
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
